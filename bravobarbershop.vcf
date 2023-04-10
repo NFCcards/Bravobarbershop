@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:BARBERSHOP;BRAVO;;;
+FN:BRAVO BARBERSHOP
+ORG:
+ADR;TYPE=WORK:Адрес: Чынгыз Айтматов 62/Сухомлинова
+TITLE:
+TEL;TYPE=CELL:+996702302301
+TEL;TYPE=WORK:+996997302301
+TEL;TYPE=HOME:+996222302301
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=WhatsApp:https://wa.link/wgtm2q
+URL;TYPE=Instagram:https://instagram.com/bravo_barbershops
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Мы работаем без выходных С 10:00 до 21:00
+UID:EnBizCard-100872585
+END:VCARD
